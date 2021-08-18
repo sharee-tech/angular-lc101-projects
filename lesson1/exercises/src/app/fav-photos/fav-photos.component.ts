@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/target-00c7a0bc7776901e3c5cdc4c36c465f19e41a249bc7267a595f0bfa14ab944b7.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'Favorite Places';
+  image1 = 'https://skiresorttest.com/uploads/alta-ski-resorts-768x512.jpg';
+  image2 = 'https://cdn.recreation.gov/public/2020/02/03/16/18/232115_09af924d-f3c5-4d71-b955-8f8107ab8e9a_700.jpg';
+  image3 = 'https://i2.wp.com/www.yourhikeguide.com/wp-content/uploads/PM-Silver-Lake-Flat.jpg';
 
   constructor() { }
 
