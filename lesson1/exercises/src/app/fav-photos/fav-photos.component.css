@@ -3,7 +3,7 @@ h3 {
 }
 
 img {
-    float: left;
+    float: center;
     width: 200px;
     height: 200px;
     object-fit: cover;
